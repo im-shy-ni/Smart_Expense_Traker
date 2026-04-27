@@ -4,20 +4,20 @@ A modern web-based application to track daily income and expenses with a clean U
 
 ## Features
 
-###Authentication
+### Authentication
 User Registration & Login
 Secure password hashing using Werkzeug
 Session-based authentication
 
-###Expense Management
+### Expense Management
 Add Income & Expenses
 Edit and Delete transactions
 Search and filter transactions
 
-###Reports & Visualization
+### Reports & Visualization
 Monthly financial reports
 Doughnut chart for Income vs Expense
 Real-time balance calculation
 
-###Export
+### Export
 Download monthly reports as PDF
